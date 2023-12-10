@@ -1,0 +1,64 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> DOM Manipulation</title>
+</head>
+<body>
+    
+<button id="changeContentButton">Click Me</button>
+  <div id="contentDiv">Initial Content</div>
+
+    <script>
+
+        const changeContentButton = document.getElementById('changeContentButton');
+        const contentDiv = document.getElementById('contentDiv');
+        const messages = [
+        'New Message 1',
+        'New Message 2',
+        'New Message 3',
+        ];
+
+        changeContentButton.addEventListener('click', function () {
+        const randomIndex = Math.floor(Math.random() * messages.length);
+        const randomMessage = messages[randomIndex];
+        contentDiv.textContent = randomMessage;
+        });
+
+    </script>
+</body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> DOM Manipulation</title>
+</head>
+<body>
+    
+<button id="changeContentButton">Click Me</button>
+  <div id="contentDiv">Initial Content</div>
+
+    <script>
+
+        const changeContentButton = document.getElementById('changeContentButton');
+        const contentDiv = document.getElementById('contentDiv');
+        const messages = [
+        'New Message 1',
+        'New Message 2',
+        'New Message 3',
+        ];
+
+        changeContentButton.addEventListener('click', function () {
+        const randomIndex = Math.floor(Math.random() * messages.length);
+        const randomMessage = messages[randomIndex];
+        contentDiv.textContent = randomMessage;
+        });
+
+    </script>
+</body>
+>>>>>>> eac8f8087e1230f38cb1d11080500a9abc7ccffb
+</html>

@@ -1,0 +1,41 @@
+.about__design{
+    padding: 50px 0;
+    background: rgb(192, 234, 247);
+}
+
+.About__image .About__img img{
+    margin-top: -420px;
+}
+
+.about__text{
+    float: right;
+    width: 50%;
+    margin-top: -580px;
+}
+
+.about__text h3{
+    font-size: 25px;
+}
+.about__text h1{
+    font-size: 35px;}
+    
+.text__p{
+    float: right;
+    width: 50%;
+    margin-top: -400px;
+}
+
+.text__p  p{
+    font-size: 1.8rem;
+}
+
+.text__p .p1{
+    padding-bottom: 30px;
+}
+
+
+.aboutBtn{
+    float: right;
+    width: 50%;
+    margin-top: -100px;
+}

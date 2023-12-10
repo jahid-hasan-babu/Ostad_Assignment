@@ -1,0 +1,5 @@
+
+.service4 .listdata{
+    display: grid;
+    grid-template-columns: auto auto;
+}

@@ -1,0 +1,18 @@
+.project3DataList{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap:10px;
+}
+.project3Data {
+    margin-top: 60px;
+}
+.project3Data h1{
+    color:#263873;
+    font-size: 32px;
+}
+.project3Data p{
+    color:#263873 ;
+    font-weight: 400;
+    padding: 20px 0px;
+}
+

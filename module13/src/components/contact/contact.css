@@ -1,0 +1,62 @@
+.contact30{
+    padding-top: 60px;
+    padding-bottom: 300px;
+}
+
+.contact__headline10 h1{
+    padding-top: 50px;
+    font-size: 60px;
+    width: 40%;
+}
+
+.contact__text2 p{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 35px;
+    color: #EF8B57;
+}
+
+.contact__mail span{
+    font-size: 25px;
+}
+
+.form-container{
+    width: 40%;
+    float: right;
+    margin-top: -350px;
+    background-color: rgb(226, 238, 238);
+    text-align: center;
+    border-radius: 20px;
+}
+
+.form-container h1{
+    font-size: 40px;
+    padding-top: 30px;
+    color: #EF8B57;
+    padding-bottom: 20px;
+}
+
+.form-input{
+    margin-left: -20px;
+    font-size: 20px;
+    padding: 10px 50px;
+    outline: 0;
+    border: 3px solid #EF8B57;
+    border-radius: 10px;
+}
+
+.input__design1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.form__area h3{
+    padding: 20px 0;
+    margin-left: -60px;
+    font-size: 20px;
+}
+
+.contact-btn{
+    padding-bottom: 20px;
+    margin-left: -250px;
+}

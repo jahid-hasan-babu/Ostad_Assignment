@@ -1,0 +1,58 @@
+.mainHome{
+    padding-bottom: 102px;
+}
+.about__style{
+    float: left;
+}
+.homeHeader h1{
+    font-size: 5rem;
+    width: 50%;
+    margin-top: 50px;
+    color: #EF8B57;
+}
+
+.homeHeader2 p{
+    padding-top: 3rem;
+    color: #EF8B57;
+    font-size: 2rem;
+    width: 50%;
+}
+
+.homeBtn{
+    padding-top: 30px;
+}
+
+.homeBtn .btn1{
+    padding: 10px;
+    font-size: 1.5rem;
+    border: none;
+    outline: 0;
+    background: #EF8B57;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.homeBtn .btn2{
+    margin-left: 10px;
+    padding: 8px;
+    font-size: 1.5rem;
+    border: 2px solid #EF8B57;
+    border-radius: 5px;
+    color: #EF8B57;
+}
+
+.img-box{
+    width: 50%;
+    margin-top: -500px;
+    margin-left: 700px;
+}
+
+.img-box .circle{
+    position: relative;
+}
+
+.img-box .homeImg{
+    position: absolute;
+    margin-left: -500px;
+    margin-top: 0;
+}

@@ -1,0 +1,65 @@
+.servic3{
+    padding: 60px 0px;
+}
+.serviceRestu{
+    display:grid;
+    grid-template-columns: auto auto;
+}
+.dataLeft{
+    display: grid;
+    grid-template-columns: auto auto;
+    /*width: 80%;*/
+    background-color: #263873;
+    padding: 60px 40px;
+    border-radius: 8px 8px 0px 0px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+
+}
+.dataLeft .data-data h3{
+    font-size: 28px;
+    color: white;
+    font-weight: 700;
+}
+.dataLeft .data-data h3 span{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.dataRight{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #48B9B7;
+    padding: 60px 40px;
+    border-radius: 8px 8px 0px 0px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    margin-left: 50px;
+}
+.dataRight .data-data span{
+    color: white;
+    font-weight: 400;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

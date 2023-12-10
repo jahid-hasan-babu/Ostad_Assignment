@@ -1,0 +1,10 @@
+const About = () => {
+  return (
+    <div>
+    <h2>This is the About</h2>
+    <p>About content goes here</p>
+    </div>
+  )
+}
+
+export default About

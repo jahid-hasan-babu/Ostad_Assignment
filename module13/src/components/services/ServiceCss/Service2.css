@@ -1,0 +1,131 @@
+.servic2{
+    width: 70rem;
+    margin: 0 auto;
+    padding: 30px 0px;
+
+}
+.serviceDetails{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.commision{
+    width: 20rem;
+}
+.commision:after{
+    display: block;
+    content: " ";
+    color: #263873;
+    background-color: #263873;
+    width: 3px;
+    height: 150px;
+    position: absolute;
+    margin-left:23%;
+    margin-top: -83px;
+}
+.img1{
+    margin-left: 47%;
+    text-align: center;
+}
+.commision p{
+    text-align: center;
+    color: #263873;
+    font-size: 20px;
+    font-weight: 500;
+}
+.loyalty{
+    width: 20rem;
+    margin-left: 50px;
+}
+.loyalty:after{
+    display: block;
+    content: " ";
+    color: #263873;
+    background-color: #263873;
+    width: 3px;
+    height: 150px;
+    position: absolute;
+    margin-left:17%;
+    margin-top: -86px;
+}
+.loyalty .img2{
+    margin-left:65px;
+    margin-top: -5px;
+}
+.loyalty p{
+    color: #263873;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+.Promotion{
+    width: 20rem;
+}
+.Promotion .img3{
+    margin-top: -5px;
+}
+.Promotion p{
+    color: #263873;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 10px;
+}
+.Promotion .img3{
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
