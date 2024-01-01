@@ -11,8 +11,9 @@ import QuestionPage from "./pages/QuestionPage";
 import ReviewsPage from "./pages/ReviewsPage";
 import SearchPage from "./pages/SearchPage";
 import PrivacyPage from "./pages/PrivacyPage";
-import RegistrationPage from "./pages/RegistrationPage";
+
 import BlogPage from "./pages/BlogPage";
+import RegistrationPage from "./pages/RegistrationPage";
 
 const App = () => {
   return (
@@ -29,7 +30,7 @@ const App = () => {
         <Route path="/reviews" element={<ReviewsPage />} />
         <Route path="/search" element={<SearchPage />} />
         <Route path="/privacy" element={<PrivacyPage />} />
-        <Route path="/registration " element={<RegistrationPage />} />
+        <Route path="/registration" element={<RegistrationPage />} />
         <Route path="/blog" element={<BlogPage />} />
       </Routes>
     </BrowserRouter>

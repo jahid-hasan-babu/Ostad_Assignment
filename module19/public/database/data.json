@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "image": "https://htmldemo.net/hmart/hmart/assets/images/product-image/1.webp",
+      "headline": "Modern Smart Phone",
+      "description": "Accessories",
+      "rate": "$38.50"
+    },
+    {
+      "id": 2,
+      "image": "https://htmldemo.net/hmart/hmart/assets/images/product-image/2.webp",
+      "headline": "Bluetooth Headphone",
+      "description": "Accessories",
+      "rate": "$38.50"
+    },
+    {
+      "id": 3,
+      "image": "https://htmldemo.net/hmart/hmart/assets/images/product-image/3.webp",
+      "headline": "Smart Music Box",
+      "description": "Accessories",
+      "rate": "$38.50"
+    },
+    {
+      "id": 4,
+      "image": "https://htmldemo.net/hmart/hmart/assets/images/product-image/4.webp",
+      "headline": "Air Pods 25Hjkl Black",
+      "description": "Accessories",
+      "rate": "$38.50"
+    },
+    {
+      "id": 5,
+      "image": "https://htmldemo.net/hmart/hmart/assets/images/product-image/5.webp",
+      "headline": "Smart Hand Watch",
+      "description": "Accessories",
+      "rate": "$38.50"
+    },
+    {
+      "id": 6,
+      "image": "https://htmldemo.net/hmart/hmart/assets/images/product-image/6.webp",
+      "headline": "Smart Table Camera",
+      "description": "Accessories",
+      "rate": "$38.50"
+    },
+    {
+      "id": 7,
+      "image": "https://htmldemo.net/hmart/hmart/assets/images/product-image/7.webp",
+      "headline": "Round Pocket Router",
+      "description": "Accessories",
+      "rate": "$38.50"
+    },
+    {
+      "id": 8,
+      "image": "https://htmldemo.net/hmart/hmart/assets/images/product-image/8.webp",
+      "headline": "Power Bank 10000Mhp",
+      "description": "Accessories",
+      "rate": "$38.50"
+    }
+  ]
+}

@@ -94,8 +94,28 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="text-center text-gray-600 py-4  bg-blue-100">
-        <p>&copy; Jahid Hasan. All rights reserved.</p>
+      <div className=" text-gray-600 py-4  bg-blue-100">
+        <div className="w-[70%] flex flex-wrap mx-auto justify-between items-center">
+          <div>
+            <p>&copy; Jahid Hasan. All rights reserved.</p>
+          </div>
+
+          <p className="ml-[600px]">Pay With</p>
+          <div className="w-[3%] flex">
+            <img
+              src="https://vectorseek.com/wp-content/uploads/2021/02/bKash-Logo-Vector.jpg"
+              alt=""
+            />
+            <img
+              src="https://www.logo.wine/a/logo/Nagad/Nagad-Vertical-Logo.wine.svg"
+              alt=""
+            />
+            <img
+              src="https://api.upaybd.com/media/dynamic_image/Logo_for_Footer_1.png"
+              alt=""
+            />
+          </div>
+        </div>
       </div>
     </>
   );

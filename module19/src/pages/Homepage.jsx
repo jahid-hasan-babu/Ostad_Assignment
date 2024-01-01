@@ -4,6 +4,10 @@ import SearchPage from "./SearchPage";
 import Navbar from "../layout/Navbar";
 import HomeSlider from "../components/HomeSlider";
 import Footer from "../layout/Footer";
+import Banner from "../components/Banner";
+import Product from "../components/Product";
+import HomeFashion from "../components/HomeFashion";
+import HomeBlog from "../components/HomeBlog";
 
 const Homepage = () => {
   return (
@@ -12,6 +16,10 @@ const Homepage = () => {
       <SearchPage />
       <Navbar />
       <HomeSlider />
+      <Banner />
+      <Product />
+      <HomeFashion />
+      <HomeBlog />
       <Footer />
     </Fragment>
   );
