@@ -56,5 +56,51 @@
       "description": "Accessories",
       "rate": "$38.50"
     }
+  ],
+  "cart": [
+    {
+      "id": 0,
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/product-image/1.webp",
+      "name": "Modern Smart Phone",
+      "price": "$60.00",
+      "subtotal": "$70.00",
+      "quantity": "1"
+    },
+    {
+      "id": 2,
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/product-image/2.webp",
+      "price": "$50.00",
+      "name": "Bluetooth Headphone",
+      "subtotal": "$80.00",
+      "quantity": "1"
+    },
+    {
+      "id": 3,
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/product-image/3.webp",
+      "price": "$70.00",
+      "name": "Smart Music Box",
+      "subtotal": "$90.00",
+      "quantity": "1"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "title": "Great Product!",
+      "content": "I love this product. It exceeded my expectations. The quality is amazing!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "Average Experience",
+      "content": "The product is good, but the delivery took longer than expected.",
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "title": "Average Experience",
+      "content": "The product is good, but the delivery took longer than expected.",
+      "rating": 4
+    }
   ]
 }

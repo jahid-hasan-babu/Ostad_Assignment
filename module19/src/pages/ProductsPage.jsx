@@ -4,6 +4,7 @@ import Search from "../components/Search";
 import Navbar from "../layout/Navbar";
 import Footer from "../layout/Footer";
 import Product from "../components/Product";
+import ProductStyle from "../components/ProductStyle";
 
 const ProductsPage = () => {
   return (
@@ -11,6 +12,7 @@ const ProductsPage = () => {
       <Header />
       <Search />
       <Navbar />
+      <ProductStyle />
       <Product />
       <Footer />
     </div>

@@ -2,6 +2,7 @@ import React from "react";
 import { FiSearch } from "react-icons/fi";
 import { AiOutlineHeart } from "react-icons/ai";
 import { FaCartPlus } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const Search = () => {
   return (
@@ -24,7 +25,9 @@ const Search = () => {
         </div>
         <div className="flex gap-6 text-4xl">
           <AiOutlineHeart />
-          <FaCartPlus />
+          <Link to="/cart">
+            <FaCartPlus />
+          </Link>
         </div>
       </div>
     </div>

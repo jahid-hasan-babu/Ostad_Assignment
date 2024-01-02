@@ -8,18 +8,21 @@ import Banner from "../components/Banner";
 import Product from "../components/Product";
 import HomeFashion from "../components/HomeFashion";
 import HomeBlog from "../components/HomeBlog";
+import Search from "../components/Search";
+import Reviews from "../components/Reviews";
 
 const Homepage = () => {
   return (
     <Fragment>
       <Header />
-      <SearchPage />
+      <Search />
       <Navbar />
       <HomeSlider />
       <Banner />
       <Product />
       <HomeFashion />
       <HomeBlog />
+      <Reviews />
       <Footer />
     </Fragment>
   );
